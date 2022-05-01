@@ -1,0 +1,27 @@
+1) Crear un CALLER para descargar noticias de Cryptomonedas (2.0 puntos de 10)
+1.1 - Conectarse a la API de twitters para descargar tweets sobre Cryptomonedas (0.5 puntos de 10).
+1.2 - Conectarse a la API de Gdelt para descargar noticias sobre Cryptomonedas (0.5 puntos de 10).
+1.3 - Scrapear la web https://coinmarketcal.com/en/news para descargar noticicas sobre Cryptomonedas (1.0 puntos de 10).
+
+2) Crear un SERVER de Spark Streamming (1 puntos de 10)
+
+3) Hacer un analisis de los mensajes en directo en clase, con ventana de tiempo (1 puntos de 10)
+
+4) Aplicar un modelo de analisis de sentimiento (2.5 puntos de 10)
+4.1 - Aplicar uno de los modelo como Vader Sentiment Analysis, textblob, flair o FinBERT (+0.5 puntos de 10).
+4.2 - Aplicar todos los modelo: Vader Sentiment Analysis, textblob, flair y FinBERT (+0.5 puntos de 10).
+4.3 - Crear un modelo de machine learning propio y aplicar dicho modelo a los mensajes (+1.5 puntos de 10).
+
+Utilizando los siguientes datos etiquetados manualmente:
+20220421_FULLDATASET_FOR_UTAD.csv
+4.3.1 - Utilizar news como texto y final_manual_labelling como variable target para vuestro modelo!
+
+ 
+
+5) Guardar los datos del SERVER en SQL marcados por tiempo (1.0 puntos de 10)
+
+6) Presentar gráficas de evolución de los sentimiento y comparativa (1.5 puntos de 10)
+6.1 - Presentar gráficas de evolución de los sentimiento, uno de los modelo como Vader Sentiment Analysis, textblob y flair (+1.0 puntos de 10).
+6.2 - Presentar gráficas de evolución de los sentimiento de todos los modelo: Vader Sentiment Analysis, textblob y flair (+0.5 puntos de 10).
+
+7) Incluir en la comparativa tu propio modelo, y ganas nota máxima si tu modelo es mejeor que los anteriores (+1.0 puntos de 10).
